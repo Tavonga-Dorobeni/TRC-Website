@@ -255,6 +255,10 @@ label {
   background: #ffffff;
 }
 
+.blue-bg {
+  background: #121121;
+}
+
 .black-bg {
   background: #121121;
 }
@@ -2240,9 +2244,9 @@ label {
   color: #2b5891;
 }
 
-.header-transparent-2 .menu-bg {
+/* .header-transparent-2 .menu-bg {
   border-bottom: 2px solid rgba(255, 255, 255, 0.2);
-}
+} */
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .header-transparent-2 .menu-bg {
     border: none;
